@@ -1,4 +1,4 @@
-# Resume Builder
+# Resume Builder (WIP)
 Built with Next.js, Tailwind, shadcn, and TypeScript.
 
 ## Getting Started
